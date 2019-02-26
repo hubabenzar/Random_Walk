@@ -1,12 +1,5 @@
-/*
-Course:			COMP 124
-Lecturer:		DR Russel Martin
-Title:			Assignment 3 - Cockroach
-Name: 			Huba Ferenc Benzar
-Student ID:		201262833
-Email:			H.Benzar@student.Liverpool.ac.uk
-Deadline: 		27/04/2018 - 1700
-*/
+//Huba Ferenc Benzar
+
 import java.util.*;
 public class DonCockroach extends Cockroach{//extends Cockroach.java
 	//sets minimum positions
